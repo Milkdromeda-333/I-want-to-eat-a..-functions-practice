@@ -40,3 +40,20 @@ let newArray = fruits.map(word => {
   }
 })
 console.log(newArray)
+
+/* OUTPUTS
+
+I want to eat a mango
+I want to eat a papaya
+I want to eat a pineapple
+I want to eat an apple
+
+I want to eat a mango
+I want to eat a papaya
+I want to eat a pineapple
+I want to eat an apple
+
+[ 'I want to eat a mango',
+  'I want to eat a papaya',
+  'I want to eat a pineapple',
+  'I want to eat an apple' ]
